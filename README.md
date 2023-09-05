@@ -1,7 +1,7 @@
 # analysis-of-business-indicators-for-mobile-app
 #### **The goal of the project is to understand the reasons for the losses of the mobile application and help the company increase profits.**
 
-⭐ I can:  
+⭐ **I can:**  
 ⭐ build marketing and product funnels in Python;  
 ⭐ analyze cohorts in different ways;  
 ⭐ find Retention Rate, Churn Rate and Conversion Rate;  
